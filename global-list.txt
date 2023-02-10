@@ -6,3 +6,6 @@ beacons5.gvt2.com
 s0.2mdn.net
 criteo.com
 adnxs-simple.com
+2mdn.net
+adroll.com
+quantcount.com
