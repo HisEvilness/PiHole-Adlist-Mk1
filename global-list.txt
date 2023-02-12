@@ -10,3 +10,6 @@ adnxs-simple.com
 adroll.com
 quantcount.com
 tpc.googlesyndication.com
+googleadservices.com
+amazon-adsystem.com
+redintelligence.net
