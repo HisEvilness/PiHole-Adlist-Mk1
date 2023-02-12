@@ -14,3 +14,5 @@ googleadservices.com
 amazon-adsystem.com
 redintelligence.net
 criteo.com
+connextra.com
+adnxs.com
