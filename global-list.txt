@@ -13,3 +13,4 @@ tpc.googlesyndication.com
 googleadservices.com
 amazon-adsystem.com
 redintelligence.net
+criteo.com
