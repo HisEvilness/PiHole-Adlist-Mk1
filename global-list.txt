@@ -28,3 +28,6 @@ cdn.flashtalking.com
 ad-delivery.net
 ids.ad.gt
 ad-score.com
+videos.taboola.com
+trc.taboola.com
+eu.criteo.com
